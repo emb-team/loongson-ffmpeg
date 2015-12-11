@@ -1,0 +1,1 @@
+config:mips:mips:loongson3:linux:gcc 5.2.1 (Debian 5.2.1-23) 20151028:--cpu=loongson3 --enable-mmi
